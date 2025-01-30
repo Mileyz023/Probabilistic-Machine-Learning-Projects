@@ -4,7 +4,7 @@
 
 * Decision Theory
 * Fitted a Naïve Bayes model to the MNIST dataset and used this model for making predictions and generating new images from the same distribution.
-* Bayes Ball Theory
+* Bayes Ball Algorithm
 
 
 ## Assignment 2 (Score 100%):
